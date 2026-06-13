@@ -1,4 +1,4 @@
-#  Olá, eu sou Francislayne Nobre! 
+# Estudante de Sistemas para Internet | Desenvolvedora em construção
 
 <p style="font-size: 14px; line-height: 1.6;">
 Minha trajetória começou na educação. Sou formada em Pedagogia e Psicopedagogia, com especialização em Análise do Comportamento e experiência em Desenvolvimento Infantil. Atualmente, estou construindo uma nova jornada na tecnologia, aprendendo linguagens de programação e desenvolvimento web.
