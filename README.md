@@ -1,4 +1,4 @@
-# Estudante de Sistemas para Internet | Dev em construção
+# Estudante de Sistemas para Internet 
 
 <p style="font-size: 14px; line-height: 1.6;">
 Minha trajetória começou na educação. Sou formada em Pedagogia e Psicopedagogia, com especialização em Análise do Comportamento e experiência em Desenvolvimento Infantil. Atualmente, estou construindo uma nova jornada na tecnologia, aprendendo linguagens de programação e desenvolvimento web.
@@ -25,10 +25,7 @@ Minha trajetória começou na educação. Sou formada em Pedagogia e Psicopedago
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
       </div>
     </td>
-    <td valign="top" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=fraan-dev&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estatísticas do GitHub" />
-    </td>
-  </tr>
+
 </table>
 
 ---
