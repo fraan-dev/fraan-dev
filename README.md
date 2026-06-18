@@ -6,7 +6,7 @@ Minha trajetória começou na educação. Sou formada em Pedagogia e Psicopedago
 
 ---
 
-<table >
+
   <tr>
     <td valign="top" width="50%">
       <h3> Linguagens & Ferramentas</h3>
@@ -26,7 +26,7 @@ Minha trajetória começou na educação. Sou formada em Pedagogia e Psicopedago
       </div>
     </td>
 
-</table>
+
 
 ---
 
