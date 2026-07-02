@@ -11,7 +11,6 @@
 Minha trajetória começou na educação. Sou formada em Pedagogia e Psicopedagogia, com especialização em Análise do Comportamento e experiência em Desenvolvimento Infantil. Atualmente, estou construindo uma nova jornada na tecnologia, aprendendo linguagens de programação e desenvolvimento web.
 </p>
 
----
 
 <div align="center">
   <h3>Linguagens & Ferramentas</h3>
@@ -29,10 +28,5 @@ Minha trajetória começou na educação. Sou formada em Pedagogia e Psicopedago
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
 </div>
 
-<br>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fraan-dev&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fraan-dev&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
 
