@@ -15,18 +15,22 @@ Minha trajetória começou na educação. Sou formada em Pedagogia e Psicopedago
 <div align="center">
   <h3>Linguagens & Ferramentas</h3>
   <br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="40" height="40" />
+
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" title="Python" alt="Python" height="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" title="JavaScript" alt="JavaScript" height="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" height="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" height="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" height="40" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40" />
+  <img src="https://cdn.simpleicons.org/php/777BB4" title="PHP" alt="PHP" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/django/44B78B" title="Django" alt="Django" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/laravel/FF2D20" title="Laravel" alt="Laravel" height="40" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" title="MySQL" alt="MySQL" height="40" />
 </div>
-
-
-
