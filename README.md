@@ -34,3 +34,11 @@ Minha trajetória começou na educação. Sou formada em Pedagogia e Psicopedago
   &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/mysql/4479A1" title="MySQL" alt="MySQL" height="40" />
 </div>
+
+
+<br>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/fraan-dev/fraan-dev/output/snake.svg" alt="Snake animation" />
+</div>
+
